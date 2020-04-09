@@ -5,12 +5,12 @@
 <h2> Tecnologias utilizadas </h2>
 <ul>
 <p>Projeto desenvolvido utilizando essas tecnologias</p>
-   <li>NodeJS</li>
-   <li>Express</li>
-   <li>Expo</li>
-   <li>Nodemon</li>
-   <li>Axios</li>
-   <li>Cors     </li>
+   <li><a href="https://nodejs.org/en/">NodeJS</a></li>
+   <li><a href="https://expressjs.com/pt-br/">Express</a></li>
+   <li><a href="https://expo.io//">Expo</a></li>
+   <li><a href="https://nodemon.io/">Nodemon</a></li>
+   <li><a href="https://github.com/axios/axios/">Axios</a></li>
+   <li><a href="https://github.com/expressjs/cors">Cors</a></li>
 </ul>
  
  
@@ -23,5 +23,5 @@
  </p>
  
  <h2>Quem ministrou ?</h2>
-<p>O curso foi criado pela RocketSeat e ministrado pelo Diego Fernandes</p>
+<p>O curso foi criado pela <a href="https://rocketseat.com.br/">RocketSeat</a> e ministrado pelo <a href="https://github.com/diego3g">Diego Fernandes</a></p>
 <body>
